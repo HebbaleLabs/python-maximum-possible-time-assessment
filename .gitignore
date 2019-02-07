@@ -3,3 +3,4 @@
 *.html
 *.pyc
 tests/reports/*
+*.iml
